@@ -1,13 +1,18 @@
 # **Inflación**
 Se va a predecir la inflación de México a partir de los datos obtenidos de diferentes instancias.
 
-## **Antecedentes**
+# **Resumen**
 
-La inflación es el aumento **sostenido** (no se da una sola vez, es constante en el tiempo, un mes, un año, etc.) y **generalizado** (todos los bienes de la economía o lo más representativos) de los **precios** de los bienes y servicios de una economía a lo largo del tiempo.
+La inflación es un fenómeno que forma parte importante de cualquier economía moderna, y que para el caso de la economía mexicana es un indicador y regulador de múltiples factores que logran el equilibrio de sus actividases económicas. La inflación es el aumento **sostenido** (no se da una sola vez, es constante en el tiempo, un mes, un año, etc.) y **generalizado** (todos los bienes de la economía o lo más representativos) de los **precios** de los bienes y servicios de una economía a lo largo del tiempo.
+
+El control de la inflación es la mejor forma de equilibrio de una economía, ya que logra que los factores de la producción mantengan un ritmo moderado de desarrollo. Si no existiera una istitución de control como el **Banco de México**, la economía entraría en crisis y desequilibrios en el tipo de productos, cantidad de dinero, exceso de de un mismo producto, concentración de ganancias en pocas manos y al pérdida del poder adquisitivio de los salarios.
 
 El problema es que no se puede saber con exactitud el precio de todos los productos de la economía, para esto es necesario seleccionar una **canasta representativa**. La canasta de bienes o servicios, está integrada por lo productos que más se consumen en la economía.
 
 A partir de esta canasta se construye un **índice de precios**. Este índice de precios está integrado por los productos de la canasta (cada uno una ponderación que está en función de su consumo).
+
+En México se utiliza la **canasta básica** para poder calcular la inflación, sin embargo, existen productos que son de origen diverso a lo largo del territorio. En la actualidad la integración de la canasta básica se sustenta en una integración general de productos que se consumen a lo largo de país. Siendo entonces esta canasta básica un promedio estadístico de productos de cierta lista, lo que lleva a conceptualizar a una familia, su ingreso, sus productos, su empleo y actividades como un consumidor fijo, universal y homogéneo.
+
 
 La variación en porcentaje (%) del índice de precios sirve para medir la inflación.
 
