@@ -5,7 +5,7 @@ Se va a predecir la inflación de México a partir de los datos obtenidos de dif
 
 La inflación es un fenómeno que forma parte importante de cualquier economía moderna, y que para el caso de la economía mexicana es un indicador y regulador de múltiples factores que logran el equilibrio de sus actividases económicas. La inflación es el aumento **sostenido** (no se da una sola vez, es constante en el tiempo, un mes, un año, etc.) y **generalizado** (todos los bienes de la economía o lo más representativos) de los **precios** de los bienes y servicios de una economía a lo largo del tiempo.
 
-El control de la inflación es la mejor forma de equilibrio de una economía, ya que logra que los factores de la producción mantengan un ritmo moderado de desarrollo. Si no existiera una istitución de control como el **Banco de México**, la economía entraría en crisis y desequilibrios en el tipo de productos, cantidad de dinero, exceso de de un mismo producto, concentración de ganancias en pocas manos y al pérdida del poder adquisitivio de los salarios.
+El control de la inflación es la mejor forma de equilibrio de una economía, ya que logra que los factores de la producción mantengan un ritmo moderado de desarrollo. Si no existiera una institución de control como el **Banco de México**, la economía entraría en crisis y desequilibrios en el tipo de productos, cantidad de dinero, exceso de de un mismo producto, concentración de ganancias en pocas manos y al pérdida del poder adquisitivio de los salarios.
 
 El problema es que no se puede saber con exactitud el precio de todos los productos de la economía, para esto es necesario seleccionar una **canasta representativa**. La canasta de bienes o servicios, está integrada por lo productos que más se consumen en la economía.
 
@@ -13,19 +13,26 @@ A partir de esta canasta se construye un **índice de precios**. Este índice de
 
 En México se utiliza la **canasta básica** para poder calcular la inflación, sin embargo, existen productos que son de origen diverso a lo largo del territorio. En la actualidad la integración de la canasta básica se sustenta en una integración general de productos que se consumen a lo largo de país. Siendo entonces esta canasta básica un promedio estadístico de productos de cierta lista, lo que lleva a conceptualizar a una familia, su ingreso, sus productos, su empleo y actividades como un consumidor fijo, universal y homogéneo.
 
-|Productos|Productos|Productos|Productos|
-|---|---|---|---|
-|Maíz|Café soluble (con y sin azucar)|Pepel higiénico|Agua purificada|
-|Frijol|Sal de mesa|Detergente en polvo|Golosina de amaranto, cacahuate, etc.|
-|Arroz|Avena|Crema dental|Puré de tomate|
-|Azúcar|Pasta para sopa|Carne de Res|Frutas deshidratadas|
-|Harina de maíz enriquecida|Harina de trigo|Carne de puerco|Jamaica y tamarindo naturales|
-|Aceite vegetal comestible|Chocolate|Carne de pollo|Concentrados sin azúcar para elaboración de bebidas (jamaica, tamarindo, etc.)|
-|Atún|Galletas marías, de animales y saladas|Tostadas|Gelatina|
-|Sardina|Lentejas|Pan de caja y de dulce|Garbanzos, chícharos y soya|
-|Leche fluida, en polvo y derivado de la leche|Jabón de lavandería|Huevo fresco|Cuadro básico de frutas y verduras|
-|Chiles envasados|Jabón de tocador|Pescado seco|Pilas|
+La canasta básica, de acuerdo al portal oficial del Gobierno Federal, se define como el conjunto de alimentos suficientes para satisfacer las necesidades de un hogar promedio. El portal oficial del Gobierno Federal también establece que no existe una canasta básica establecida, pues diversas insituciones públicas y privadas generan su propia canasta básica tomando en cuenta el propósito de cada una. Estas se clasifican en dos tipos: reales y recomendables. Las primeras indican lo que la gente consume regularmente y las segundas se elaboran para indicar lo que se debería consumir. [Fuente.](https://www.eluniversal.com.mx/menu/que-es-la-canasta-basica-y-que-productos-la-integran)
 
+Las canastas cumplen con las normas de nutrición, además de apegarse al patrón de consumo observado en los hogares mexicanos. A continuación se presenta una [muestra](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825196929.pdf) de composición por grupos.
+
+||Productos|
+|:---:|:---:|
+|1|Cereal y derivados|
+|2|Carnes|
+|3|Pescados y mariscos|
+|4|Leches y derivados|
+|5|Huevo|
+|6|Aceites y grasas|
+|7|Tubérculos|
+|8|Verduras y legumbres|
+|9|Frutas frescas|
+|10|Leguminosas|
+|11|Azúcares y mieles|
+|12|Bebidas|
+|13|Alimentos preparados|
+|14|Alimentos fuera del hogar|
 
 La variación en porcentaje (%) del índice de precios sirve para medir la inflación.
 
@@ -61,4 +68,3 @@ Para calcular el INPC, es importante considerar que:
  * Banxico publica el 10 y 25 de cada mes el IPNC quincenal.
 
 Información extraída del [Taller: Inflación y política Monetaria en México](https://www.uv.mx/personal/esaucedo/files/2010/08/Taller-Inf.-y-PM-en-M%C3%A9xico.pdf)
-
