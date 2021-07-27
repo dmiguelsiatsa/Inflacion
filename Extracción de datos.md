@@ -21,6 +21,9 @@ Fácil entrada:
  * [Waldos](https://waldos.com.mx/)
  * [La Castellana](https://lacastellana.com/#)
  * [Vinoteca](https://www.vinoteca.com/#)
+ * [La Europea](https://www.laeuropea.com.mx/)
+ * [Bodegas Alianza](https://www.bodegasalianza.com/)
+ * [Scorpion](https://www.scorpion.com.mx/)
 
 
 Difícil entrada:
@@ -28,7 +31,8 @@ Difícil entrada:
  * [La Comer](https://www.lacomer.com.mx/lacomer/#!/home?succId=287&succFmt=100)
  * [PRISSA](https://prissa.mx/)
  * [Bodega Aurrera](https://www.bodegaaurrera.com.mx/inicio)
- * [SOriana Superentucasa](https://superentucasa.soriana.com/default.aspx?P=13187)
+ * [Soriana](https://superentucasa.soriana.com/default.aspx?P=13187)
+ * [Fresko](https://www.lacomer.com.mx/lacomer/?_ga=2.21022847.558790867.1627325155-786350580.1627325155#!/home?succId=137&succFmt=100)
 
 
 No es posible hacerlo:
@@ -36,7 +40,15 @@ No es posible hacerlo:
  * [Go Mart](http://gomart.com.mx/)
  * [Piticó](https://pitico.mx/)
  * [DEl Río](http://delriosa.com/)
- * [El Puma Abarroter](https://www.elpumaabarrotero.com/)
+ * [El Puma Abarrotero](https://www.elpumaabarrotero.com/)
+ * [Zorro Abarrotero](https://zorroabarrotero.com.mx/) (Sólo muestra promociones y descuentos, no muestra precios reales)
+ * [7-Eleven](https://www.7-eleven.com.mx/) (Sólo maneja imágenes)
+ * [City Market](https://www.citymarket.com.mx/comprasbiencitymarket/)(No maneja precios en su página.)
+ * [Tiendas 3B](https://tiendas3b.com/) (Maneja sólo imágenes)
+ * [Merza](https://www.merza.com.mx/) (Maneja sólo imágenes)
+ * [Garis](https://www.garis.com.mx/home/admin/home.do) (Maneja sólo imágenes)
+ * [Kiosco](https://www.mikiosko.mx/web/index.php) (Maneja sólo imágenes)
+ * [Circle K](https://www.circlek.com.mx/) (No tiene gran variedad d eproductos.)
 
 No tiene página oficial:
  * SUMESA
