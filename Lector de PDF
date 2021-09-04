@@ -1,0 +1,9 @@
+
+
+
+
+
+Tablas con 4 columnas tienen juntos los datos: [clave y concepto], [Precio promedio], [unidad] y [especificación del producto].
+Tablas con 5 columnas tienen los datos correctos: [Clave], [Concepto], [Precio promedio], [unidad] y [especificación del producto].
+Tablas con 6 columnas tienen los datos correctos y se agrega una vacía: [Clave], [Concepto], [Precio promedio], [unidad], [especificación del producto] y [NaN]
+Tablas con 6 columnas tienen los datos correctos y se agregan dos vacías: [Clave], [Concepto], [NaN], [Precio promedio], [unidad], [especificación del producto] y [NaN]
